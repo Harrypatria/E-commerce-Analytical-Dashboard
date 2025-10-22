@@ -1,4 +1,3 @@
-```markdown
 # E-commerce Analytics Dashboard
 
 ![Dashboard](Main.png)
