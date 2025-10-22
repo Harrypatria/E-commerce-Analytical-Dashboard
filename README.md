@@ -1,7 +1,7 @@
 ```markdown
 # E-commerce Analytics Dashboard
 
-![Dashboard](image.png)
+![Dashboard](Main.png)
 
 A production-ready analytics dashboard built with Reflex for real-time e-commerce performance monitoring.
 
